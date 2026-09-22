@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![SvelteKit](https://img.shields.io/badge/SvelteKit_5-FF3E00?logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![Node](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit_5-FF3E00?logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![Node](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 </div>
 
@@ -23,10 +23,11 @@ y entregar productos funcionales, rápidos y fáciles de usar para gente que no 
 - **Menús digitales y sistemas de pedidos** para restaurantes y negocios locales
 - **E-commerce y catálogos** con carrito, tallas y checkout
 - **Datos públicos**: catálogos, costos y dashboards con la fuente al pie
+- **Apps Android nativas** en Java
 - **Automatización con IA** para tareas repetitivas de negocio
 - **UI cuidada**: responsive, accesible (contraste AA) y rápida
 
-## Trabajo reciente
+## Proyectos
 
 ### 🧭 Brújula — orientación vocacional y costo real de estudiar
 
@@ -35,7 +36,12 @@ estudiar** una carrera, cuánto se gana después y qué alternativas existen cer
 Datos de fuentes públicas (SIES, INE, Mineduc), calculadora con desglose de costos y
 comparación de cada carrera contra el promedio de su área.
 
-*SvelteKit 5 · TypeScript · datos públicos · sin dependencias de UI · beta privada, demo a pedido.*
+571 carreras · 18 instituciones · sitio estático que funciona igual si el backend no está
+configurado · cada cifra con su fuente y su año a la vista.
+
+**[→ Ver el sitio en vivo](https://brujula-coquimbo.web.app)** · **[→ Código](https://github.com/samueleduardobuguenovega-lang/brujula)**
+
+*SvelteKit 5 · TypeScript · CSS propio por capas · sin dependencias de interfaz · beta en desarrollo.*
 
 <table>
 <tr>
@@ -46,6 +52,21 @@ comparación de cada carrera contra el promedio de su área.
 </table>
 
 <img src="img/brujula-carreras.png" alt="Listado de carreras con buscador y filtros">
+
+### 📦 BodegaExpress — gestión de bodega en Android
+
+App Android **nativa en Java** que cubre el ciclo completo de una bodega: inicio de sesión con
+roles, alta, edición y búsqueda de productos, registro de entradas y salidas con validación de
+stock, dashboard de indicadores y alerta de stock bajo.
+
+La resolví como sistema, no como ejercicio: capas separadas (`data` · `model` · `ui` · `util`)
+sobre un repositorio con semilla de datos, y un módulo **`uikit` propio** con vistas
+reutilizables (`SectionHeaderView`, `CampoFormularioView`, `StatusBadgeView`) en lugar de
+repetir XML en cada pantalla.
+
+**[→ Código](https://github.com/samueleduardobuguenovega-lang/BodegaExpress-IEI093)**
+
+*Android SDK nativo · Java · Gradle Kotlin DSL · RecyclerView · ConstraintLayout.*
 
 ### 🍔 Menús digitales y pedidos online
 
@@ -67,6 +88,7 @@ cada uno con su panel de administración y vista para cocina/pedidos.
 | Capa | Tecnologías |
 |------|-------------|
 | Frontend | SvelteKit 5 · Svelte 5 · TypeScript · Tailwind CSS 4 · CSS propio por capas |
+| Móvil | Android nativo · Java · Gradle KTS · componentes de UI reutilizables |
 | Backend y datos | Firebase (Firestore, Auth, Functions) · Node.js · APIs REST |
 | Pruebas | Playwright · Vitest · scripts de auditoría propios |
 | Infra | Docker · GitHub Actions · despliegue en servidor propio |
