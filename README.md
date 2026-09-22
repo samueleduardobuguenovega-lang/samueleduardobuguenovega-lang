@@ -29,6 +29,9 @@ y entregar productos funcionales, rápidos y fáciles de usar para gente que no 
 
 ## Proyectos
 
+> El código de estos proyectos es privado. **Lo que está abierto es el producto**: entrá,
+> usalo y juzgalo vos mismo.
+
 ### 🧭 Brújula — orientación vocacional y costo real de estudiar
 
 Web para estudiantes de 3° y 4° medio de la Región de Coquimbo: **cuánto cuesta realmente
@@ -36,10 +39,13 @@ estudiar** una carrera, cuánto se gana después y qué alternativas existen cer
 Datos de fuentes públicas (SIES, INE, Mineduc), calculadora con desglose de costos y
 comparación de cada carrera contra el promedio de su área.
 
-571 carreras · 18 instituciones · sitio estático que funciona igual si el backend no está
-configurado · cada cifra con su fuente y su año a la vista.
+571 carreras · 18 instituciones · cada cifra con su fuente y su año a la vista.
 
-**[→ Ver el sitio en vivo](https://brujula-coquimbo.web.app)** · **[→ Código](https://github.com/samueleduardobuguenovega-lang/brujula)**
+<div align="center">
+
+### **[→ Abrir el sitio: brujula-coquimbo.web.app](https://brujula-coquimbo.web.app)**
+
+</div>
 
 *SvelteKit 5 · TypeScript · CSS propio por capas · sin dependencias de interfaz · beta en desarrollo.*
 
@@ -60,11 +66,9 @@ roles, alta, edición y búsqueda de productos, registro de entradas y salidas c
 stock, dashboard de indicadores y alerta de stock bajo.
 
 La resolví como sistema, no como ejercicio: capas separadas (`data` · `model` · `ui` · `util`)
-sobre un repositorio con semilla de datos, y un módulo **`uikit` propio** con vistas
-reutilizables (`SectionHeaderView`, `CampoFormularioView`, `StatusBadgeView`) en lugar de
-repetir XML en cada pantalla.
-
-**[→ Código](https://github.com/samueleduardobuguenovega-lang/BodegaExpress-IEI093)**
+sobre un repositorio con semilla de datos, y un módulo de UI propio con vistas reutilizables
+(cabeceras de sección, campos de formulario y badges de estado) en lugar de repetir la
+interfaz pantalla por pantalla.
 
 *Android SDK nativo · Java · Gradle Kotlin DSL · RecyclerView · ConstraintLayout.*
 
@@ -73,7 +77,7 @@ repetir XML en cada pantalla.
 Sistemas de **menú digital con carrito y checkout** para negocios de comida y marcas de ropa,
 cada uno con su panel de administración y vista para cocina/pedidos.
 
-*SvelteKit 5 · Firebase (Firestore, Auth, Functions) · código privado de cada cliente.*
+*SvelteKit 5 · Firebase (Firestore, Auth, Functions).*
 
 ## Cómo trabajo
 
