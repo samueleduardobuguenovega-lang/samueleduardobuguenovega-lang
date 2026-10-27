@@ -8,29 +8,41 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=720&height=60&repeat=true&lines=Aprendiendo+a+construir+con+IA;Estudiante+de+desarrollo+Android;Construyo+productos+reales%2C+con+IA+como+copiloto;Honestidad+sobre+marketing" alt="Aprendiendo a construir con IA — texto animado" /></a>
+
+</div>
+
 ## Sobre mí
 
-Desarrollador **full-stack independiente** desde Ovalle, Región de Coquimbo (Chile).
-Construyo soluciones web para negocios y proyectos de interés público: menús digitales,
-sistemas de pedidos, e-commerce y automatización con IA.
+Estudiante de desarrollo Android desde Ovalle, Región de Coquimbo (Chile). Y lo digo claro,
+porque prefiero la verdad antes que el marketing:
 
-Me gusta llevar cada proyecto **de punta a punta** — diseño, datos, pruebas y despliegue —
-y entregar productos funcionales, rápidos y fáciles de usar para gente que no es técnica.
+> **Si le quito la IA a lo que hago, no sé programar ni una calculadora.**
+> Con IA, en cambio, entrego productos completos: los que ves abajo funcionan, están
+> desplegados y personas reales los usan.
+
+Mi parte del trabajo es la idea, el diseño, las decisiones de producto, la integración, la
+verificación con pruebas automatizadas y el pulido final. La IA escribe código conmigo y yo
+la dirijo, la reviso y la audito. Los fundamentos los voy aprendiendo en el camino — en
+público, con sus errores incluidos.
 
 ## Lo que hago
 
-- **Aplicaciones web** con SvelteKit 5 + TypeScript
-- **Menús digitales y sistemas de pedidos** para restaurantes y negocios locales
-- **E-commerce y catálogos** con carrito, tallas y checkout
-- **Datos públicos**: catálogos, costos y dashboards con la fuente al pie
-- **Apps Android nativas** en Java
-- **Automatización con IA** para tareas repetitivas de negocio
-- **UI cuidada**: responsive, accesible (contraste AA) y rápida
+- **Dirijo productos de punta a punta**: la especificación, el diseño y las decisiones son
+  mías; la IA escribe código bajo mi dirección y revisión.
+- **Apps web reales y desplegadas**: menús digitales, pedidos, e-commerce y datos públicos.
+- **Apps Android en Java**, aprendiendo el oficio con la IA como tutor y pair programmer.
+- **Verificación automatizada**: Vitest + Playwright sobre GitHub Actions; no publico si
+  algo falla.
+- **Datos con fuente:** cada cifra va con su origen y su año a la vista.
 
 ## Proyectos
 
-> El código de estos proyectos es privado. **Lo que está abierto es el producto**: entrá,
-> usalo y juzgalo vos mismo.
+> La mayoría de estos productos está **desplegada y abierta al público**: entra, úsalo y
+> juzga por ti mismo. Su código es privado. Lo que sí está abierto: mis apps de Android y
+> mis actividades de curso, al final de esta sección.
 
 ### 🧭 Brújula — orientación vocacional y costo real de estudiar
 
@@ -119,18 +131,35 @@ interfaz pantalla por pantalla.
 
 *Android SDK nativo · Java · Gradle Kotlin DSL · RecyclerView · ConstraintLayout.*
 
+### 🔓 Código abierto — Android y actividades de curso
+
+- 🗺️ [SimpleGPSMapApp](https://github.com/samueleduardobuguenovega-lang/SimpleGPSMapApp) —
+  Android en Java con Google Maps, GPS en tiempo real (FusedLocationProvider), marcadores del
+  usuario y captura de fotos, con pruebas unitarias incluidas.
+- 🎬 [SimpleMultimediaApp](https://github.com/samueleduardobuguenovega-lang/SimpleMultimediaApp) —
+  Android en Java con imagen, audio, video, animación y permisos en tiempo de ejecución.
+- 📚 Actividades de curso (IEI-093):
+  [Semana7Actividad22ThreadsYSensores](https://github.com/samueleduardobuguenovega-lang/Semana7Actividad22ThreadsYSensores)
+  (threads y sensores) ·
+  [Semana06Actividad21](https://github.com/samueleduardobuguenovega-lang/Semana06Actividad21).
+
 ## Cómo trabajo
 
+- **La dirección es mía; el código, coescrito con IA:** especifico, diseño, reviso y audito
+  todo lo que la IA produce conmigo. Nada llega a producción sin pruebas que lo respalden.
 - **Pruebas antes de publicar:** cada entrega corre verificaciones automáticas (lógica de
-  dominio, render en varios tamaños de pantalla, cero errores de consola) y no se publica si algo falla.
+  dominio, render en varios tamaños de pantalla, cero errores de consola) y no se publica si
+  algo falla.
 - **Accesibilidad y rendimiento** como parte del trabajo, no como extra.
-- **Datos con fuente:** cada cifra va con su origen y su año a la vista.
 - **Documentación** para que el proyecto siga vivo sin mí.
+- **Aprendiendo en público:** estudio fundamentos de Java y Android (IEI-093) mientras
+  entrego; mis repos de actividades están abiertos, con sus errores y todo.
 
 ## Stack
 
 | Capa | Tecnologías |
 |------|-------------|
+| Copiloto | Desarrollo dirigido por IA: LLMs y agentes de código, con revisión y verificación humana |
 | Frontend | SvelteKit 5 · Svelte 5 · TypeScript · Tailwind CSS 4 · CSS propio por capas |
 | Móvil | Android nativo · Java · Gradle KTS · componentes de UI reutilizables |
 | Backend y datos | Firebase (Firestore, Auth, Functions) · Node.js · APIs REST |
@@ -139,6 +168,32 @@ interfaz pantalla por pantalla.
 
 ---
 
+## Estado y actividad
+
 <div align="center">
-<sub>Ovalle, Región de Coquimbo · Chile — abierto a proyectos y colaboraciones.</sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=samueleduardobuguenovega-lang&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=vue-dark" height="165" alt="Estadísticas de GitHub" />
+<img src="https://streak-stats.demolab.com?user=samueleduardobuguenovega-lang&hide_border=true&theme=vue-dark" height="165" alt="Racha de contribuciones" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueleduardobuguenovega-lang&layout=compact&hide_border=true&theme=vue-dark" height="165" alt="Lenguajes principales" />
+
+<p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,git,github,vscode,androidstudio,md,firebase,tailwind" alt="Herramientas que uso" /></a>
+</p>
+
+</div>
+
+### 🐍 Mi serpiente de contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samueleduardobuguenovega-lang/samueleduardobuguenovega-lang/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samueleduardobuguenovega-lang/samueleduardobuguenovega-lang/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/samueleduardobuguenovega-lang/samueleduardobuguenovega-lang/output/github-contribution-grid-snake.svg" alt="Animación de serpiente recorriendo la grilla de contribuciones" />
+</picture>
+
+</div>
+
+<div align="center">
+<sub>Ovalle, Región de Coquimbo · Chile — aprendiendo a construir con IA, con productos reales incluidos. Colaboraciones bienvenidas.</sub>
 </div>
