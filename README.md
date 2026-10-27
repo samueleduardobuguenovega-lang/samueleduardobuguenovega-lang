@@ -16,12 +16,9 @@
 
 ## Sobre mí
 
-Estudiante de desarrollo Android desde Ovalle, Región de Coquimbo (Chile). Y lo digo claro,
+Estudiante de  Ovalle, Región de Coquimbo (Chile). Y lo digo claro,
 porque prefiero la verdad antes que el marketing:
 
-> **Si le quito la IA a lo que hago, no sé programar ni una calculadora.**
-> Con IA, en cambio, entrego productos completos: los que ves abajo funcionan, están
-> desplegados y personas reales los usan.
 
 Mi parte del trabajo es la idea, el diseño, las decisiones de producto, la integración, la
 verificación con pruebas automatizadas y el pulido final. La IA escribe código conmigo y yo
