@@ -4,153 +4,69 @@
 
 <div align="center">
 
-![SvelteKit](https://img.shields.io/badge/SvelteKit_5-FF3E00?logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![Node](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit_5-FF3E00?logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6C8A63?logo=vitest&logoColor=white)
 
-</div>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=720&height=60&repeat=true&lines=Aprendiendo+a+construir+con+IA;Estudiante+de+desarrollo+Android;Construyo+productos+reales%2C+con+IA+como+copiloto;Honestidad+sobre+marketing" alt="Aprendiendo a construir con IA — texto animado" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=720&height=60&repeat=true&lines=Aprendiendo+a+construir+con+IA;Estudiante+de+desarrollo+Android;Construyo+productos+reales%2C+con+IA+como+copiloto;Honestidad+antes+que+marketing" alt="Aprendiendo a construir con IA — texto animado" /></a>
 
 </div>
 
 ## Sobre mí
 
-Estudiante de  Ovalle, Región de Coquimbo (Chile). Y lo digo claro,
-porque prefiero la verdad antes que el marketing:
+Estudiante de desarrollo en Ovalle, Región de Coquimbo (Chile). Dirijo productos de punta a
+punta: la idea, el diseño y las decisiones son mías; la IA escribe código bajo mi dirección,
+y nada sale a producción sin verificación automatizada que lo respalde.
 
+## 🚀 Ahora
 
-Mi parte del trabajo es la idea, el diseño, las decisiones de producto, la integración, la
-verificación con pruebas automatizadas y el pulido final. La IA escribe código conmigo y yo
-la dirijo, la reviso y la audito. Los fundamentos los voy aprendiendo en el camino — en
-público, con sus errores incluidos.
-
-## Lo que hago
-
-- **Dirijo productos de punta a punta**: la especificación, el diseño y las decisiones son
-  mías; la IA escribe código bajo mi dirección y revisión.
-- **Apps web reales y desplegadas**: menús digitales, pedidos, e-commerce y datos públicos.
-- **Apps Android en Java**, aprendiendo el oficio con la IA como tutor y pair programmer.
-- **Verificación automatizada**: Vitest + Playwright sobre GitHub Actions; no publico si
-  algo falla.
-- **Datos con fuente:** cada cifra va con su origen y su año a la vista.
-
-## Proyectos
-
-> La mayoría de estos productos está **desplegada y abierta al público**: entra, úsalo y
-> juzga por ti mismo. Su código es privado. Lo que sí está abierto: mis apps de Android y
-> mis actividades de curso, al final de esta sección.
-
-### 🧭 Brújula — orientación vocacional y costo real de estudiar
-
-Web para estudiantes de 3° y 4° medio de la Región de Coquimbo: **cuánto cuesta realmente
-estudiar** una carrera, cuánto se gana después y qué alternativas existen cerca de casa.
-Datos de fuentes públicas (SIES, INE, Mineduc), calculadora con desglose de costos y
-comparación de cada carrera contra el promedio de su área.
-
-571 carreras · 18 instituciones · cada cifra con su fuente y su año a la vista.
+| | Proyecto | Estado |
+|---|---|---|
+| 💰 | [FinControl](https://github.com/samueleduardobuguenovega-lang/FinControl) — Android en Java para gastos y suscripciones, con seguridad como tema central: PBKDF2, Keystore, SQL parametrizado y mapa de gastos. En detalle: [informe de vulnerabilidades corregidas](https://github.com/samueleduardobuguenovega-lang/FinControl/blob/main/vulnerabilities.md). | última edición 30 oct |
+| 🧭 | **Brújula** — orientación vocacional y costo real de estudiar en la Región de Coquimbo (SIES, INE, Mineduc). Beta en desarrollo. | sitio vivo · beta |
+| 🛡️ | **Bodega Android** — colaboración en `SistemaBodegaAppAndroid` con @Benjaclownstar: PRs y revisión en el sistema de bodega. | en curso |
 
 <div align="center">
 
-### **[→ Abrir el sitio: brujula-coquimbo.web.app](https://brujula-coquimbo.web.app)**
+### **[→ Abrir Brújula: brujula-coquimbo.web.app](https://brujula-coquimbo.web.app)**
 
 </div>
 
-*SvelteKit 5 · TypeScript · CSS propio por capas · sin dependencias de interfaz · beta en desarrollo.*
+## 🏪 Productos reales en producción
 
-<table>
-<tr>
-<td width="33%"><img src="img/brujula-inicio.png" alt="Inicio Brújula"><br><sub>Portada</sub></td>
-<td width="33%"><img src="img/brujula-calculadora.png" alt="Calculadora de costos"><br><sub>Calculadora de costos</sub></td>
-<td width="33%"><img src="img/brujula-ficha.png" alt="Ficha de carrera"><br><sub>Ficha de carrera</sub></td>
-</tr>
-</table>
+> Programas que **ya están desplegados y en uso**: entra, úsalo y juzga por ti mismo.
+> Su código es privado; los repos abiertos están en la sección siguiente.
 
-<img src="img/brujula-carreras.png" alt="Listado de carreras con buscador y filtros">
+- 🌭 **Los Ñeñecos** — menú digital y sistema de pedidos para la local: catálogo en vivo, carrito,
+  checkout, panel de cocina y administración con roles. *SvelteKit 5 · TypeScript · Firebase ·
+  Vitest + Playwright.* **[→ Sitio en vivo](https://nenekos-c1e77.web.app)**
+- 🖤 **GA Streetwear (Giovani Ambiziosi)** — e-commerce de marca (Drop 01) con catálogo de
+  ediciones numeradas, carrito y pedido directo por WhatsApp/Instagram con panel de
+  administración. *SvelteKit 5 · Tailwind 4.* Despliegue de demo en LAN.
 
-### 🌭 Los Ñeñecos — menú digital y pedidos para un local de comida al paso
+## 📦 Código abierto
 
-PWA de menú digital y pedidos para **Comida al Paso Los Ñeñecos** (Ovalle). El cliente entra
-desde el teléfono, arma su pedido y lo envía sin instalar nada; el local lo recibe en una
-pantalla de cocina.
+Actividades y sistemas de curso (IEI-093, Programación Android), abiertos con sus
+errores y todo. Cada nombre lleva al repo con la explicación a fondo:
 
-Catálogo en vivo sincronizado con Firestore, carrito y checkout, **panel de cocina** para
-seguir el estado de cada pedido, panel de administración con roles (productos, categorías,
-precios y promociones), botón directo de WhatsApp, modo oscuro y QA automatizado con
-Vitest + Playwright sobre GitHub Actions.
-
-<div align="center">
-
-### **[→ Abrir el menú: nenekos-c1e77.web.app](https://nenekos-c1e77.web.app)**
-
-</div>
-
-*SvelteKit 5 · TypeScript · Tailwind CSS 4 · Firebase (Firestore, Auth, Hosting) · PWA.*
-
-<table>
-<tr>
-<td width="33%"><img src="img/nenecos-menu.jpg" alt="Menú digital Los Ñeñecos"><br><sub>Menú en escritorio</sub></td>
-<td width="33%"><img src="img/nenecos-menu-movil.jpg" alt="Menú en teléfono"><br><sub>La vista que usa el cliente</sub></td>
-<td width="33%"><img src="img/nenecos-checkout.png" alt="Checkout del pedido"><br><sub>Checkout paso a paso</sub></td>
-</tr>
-</table>
-
-### 🖤 GA Streetwear — e-commerce de una marca de ropa
-
-Tienda online para la marca de streetwear **Giovani Ambiziosi** (Drop 01 · *Destinato alla
-Vittoria*): catálogo con selección de tallas, estados de inventario, carrito persistente,
-checkout guiado con retiro o delivery, seguimiento del pedido para el cliente y panel de
-administración completo.
-
-Es una **marca ficticia**: la armé como pieza de portafolio para construir la identidad
-visual, el flujo de compra y el panel de admin de punta a punta, sin depender de un cliente
-real.
-
-<table>
-<tr>
-<td width="50%"><img src="img/ga-streetwear-inicio.jpg" alt="GA Streetwear — portada"><br><sub>Portada (escritorio)</sub></td>
-<td width="50%"><img src="img/ga-streetwear-inicio-movil.jpg" alt="GA Streetwear — portada móvil"><br><sub>Portada (teléfono)</sub></td>
-</tr>
-</table>
-
-*SvelteKit 5 · TypeScript 6 · Tailwind CSS 4 · Playwright · catálogo de prueba, sin backend real.*
-
-### 📦 BodegaExpress — gestión de bodega en Android
-
-App Android **nativa en Java** que cubre el ciclo completo de una bodega: inicio de sesión con
-roles, alta, edición y búsqueda de productos, registro de entradas y salidas con validación de
-stock, dashboard de indicadores y alerta de stock bajo.
-
-La resolví como sistema, no como ejercicio: capas separadas (`data` · `model` · `ui` · `util`)
-sobre un repositorio con semilla de datos, y un módulo de UI propio con vistas reutilizables
-(cabeceras de sección, campos de formulario y badges de estado) en lugar de repetir la
-interfaz pantalla por pantalla.
-
-*Android SDK nativo · Java · Gradle Kotlin DSL · RecyclerView · ConstraintLayout.*
-
-### 🔓 Código abierto — Android y actividades de curso
-
-- 🗺️ [SimpleGPSMapApp](https://github.com/samueleduardobuguenovega-lang/SimpleGPSMapApp) —
-  Android en Java con Google Maps, GPS en tiempo real (FusedLocationProvider), marcadores del
-  usuario y captura de fotos, con pruebas unitarias incluidas.
+- 🗺️ [SimpleGPSMapApp](https://github.com/samueleduardobuguenovega-lang/SimpleGPSMapApp) — Google
+  Maps + GPS con `FusedLocationProvider`, marcadores, geocodificación en hilos, cámara y pruebas unitarias.
+- 💰 [FinControl](https://github.com/samueleduardobuguenovega-lang/FinControl) — el proyecto "Ahora",
+  con su auditoría de seguridad y correcciones documentadas.
 - 🎬 [SimpleMultimediaApp](https://github.com/samueleduardobuguenovega-lang/SimpleMultimediaApp) —
-  Android en Java con imagen, audio, video, animación y permisos en tiempo de ejecución.
-- 📚 Actividades de curso (IEI-093):
-  [Semana7Actividad22ThreadsYSensores](https://github.com/samueleduardobuguenovega-lang/Semana7Actividad22ThreadsYSensores)
-  (threads y sensores) ·
-  [Semana06Actividad21](https://github.com/samueleduardobuguenovega-lang/Semana06Actividad21).
+  imagen, audio, video, animación y permisos en tiempo de ejecución.
+- 🧵 [Semana7Actividad22ThreadsYSensores](https://github.com/samueleduardobuguenovega-lang/Semana7Actividad22ThreadsYSensores)
+  — threads, `AsyncTask`, sensores de rotación y acelerómetro.
+- 💬 [Semana06Actividad21](https://github.com/samueleduardobuguenovega-lang/Semana06Actividad21)
+  — intents explícitos e implícitos: cámara, datos entre Activities y compartir.
+- 📦 [sistema en colaboración](https://github.com/Benjaclownstar/SistemaBodegaAppAndroid) — bodega
+  con roles y stock, revisada en PRs.
 
 ## Cómo trabajo
 
-- **La dirección es mía; el código, coescrito con IA:** especifico, diseño, reviso y audito
-  todo lo que la IA produce conmigo. Nada llega a producción sin pruebas que lo respalden.
-- **Pruebas antes de publicar:** cada entrega corre verificaciones automáticas (lógica de
-  dominio, render en varios tamaños de pantalla, cero errores de consola) y no se publica si
-  algo falla.
-- **Accesibilidad y rendimiento** como parte del trabajo, no como extra.
-- **Documentación** para que el proyecto siga vivo sin mí.
-- **Aprendiendo en público:** estudio fundamentos de Java y Android (IEI-093) mientras
-  entrego; mis repos de actividades están abiertos, con sus errores y todo.
+- **La dirección es mía; el código, coescrito con IA:** especifico, diseño, reviso y audito.
+- **Verificación antes de publicar:** pruebas automáticas (lógica, múltiples pantallas, cero
+  errores de consola); si algo falla, no queda publicado.
+- **Datos con fuente:** cada cifra va con su origen y su año a la vista.
+- **Aprendiendo en público:** mis repos de curso están abiertos, con sus errores incluidos.
 
 ## Stack
 
